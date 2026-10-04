@@ -6,12 +6,7 @@ dist/
 build/
 .ipynb_checkpoints/
 
-# Large data files (available on request)
-results_v5/*.npy
-results_v5/*.png
-results_v5/*.json
-
-# LaTeX build artifacts
+# LaTeX build artifacts only (data/figures/results are public)
 *.aux
 *.log
 *.out
