@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
+
+# Large data files (available on request)
+results_v5/*.npy
+results_v5/*.png
+results_v5/*.json
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+paper_v1.tex
